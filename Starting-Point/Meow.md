@@ -1,6 +1,5 @@
 # HTB Starting Point: Meow
-
-**Difficulty:** Very Easy  
+ 
 **Type:** Machine / Network Connectivity  
 **Status:** In Progress ⏳
 
