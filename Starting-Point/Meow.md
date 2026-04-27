@@ -13,3 +13,6 @@ Establish a VPN connection to the HTB network and identify open ports on the tar
 * Telnet / Nmap (Service enumeration)
 
 ## Key Learnings
+
+Discovered open Telnet port (23) using Nmap version scanning (-sV).
+Exploited misconfigured Telnet service by logging in with default root account and a blank password to achieve total system compromise.
