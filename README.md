@@ -10,7 +10,8 @@ This repository tracks my continuous learning and practical application of cyber
 
 ## Lab Index
 ### 1. Starting Point (Tier 0)
-* [Meow](Starting-Point/Meow.md) - *In Progress*
+* [Meow](Starting-Point/Meow.md) - *Completed*
+
 
 ### 2. Sherlocks (Defensive)
 * Meerkat - *Upcoming*
